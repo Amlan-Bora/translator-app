@@ -1,3 +1,8 @@
+# translator app
+
+Demo : ![Screenshot 2021-11-22 at 3 02 01 AM](https://user-images.githubusercontent.com/52694498/142780398-586c4afe-eaf7-4664-8476-24f60d2a9b76.png)
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
